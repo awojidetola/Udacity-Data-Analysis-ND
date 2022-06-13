@@ -22,4 +22,3 @@ Some of the research questions analyzed are:
 + Which dog stage is the most popular
 + What are the top 10 most popular dog breeds predicted by the Neural Network
 + For a given dog picture/post, what is the correlation between number of likes and number of retweets.
-+ 
