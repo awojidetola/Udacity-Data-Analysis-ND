@@ -15,6 +15,8 @@ Some of the research questions analyzed are:
 - What are the top 10 most popular dog breeds predicted by the Neural Network
 - For a given dog picture/post, what is the correlation between number of likes and number of retweets.
 
+## File Desciption
+
 + wrangle_act.ipynb: Jupyter Notebook containing the codes for data wrangling, storing, analysis and visualization
 + wrangle_report.pdf: A report containing the detials of the data wrangling phase
 + twitter_enhanced.csv: The data provided containing basic information about the dog tweets
