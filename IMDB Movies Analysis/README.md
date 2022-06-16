@@ -6,4 +6,4 @@ Three major research questions are analyzed here:
 + Who are the casts of the highest grossign movies and what is the general overview of their footprint in the movie industry?
 + Does genre popularity influence movie rating?
 
-A dashboard was created from the data used for this analysis and can be accessed (here)[https://public.tableau.com/app/profile/margaret.awojide/viz/IMDBMovieDashboard_16554219196260/Dashboard1?publish=yes]
+A dashboard was created from the data used for this analysis and can be accessed [here](https://public.tableau.com/app/profile/margaret.awojide/viz/IMDBMovieDashboard_16554219196260/Dashboard1?publish=yes)
