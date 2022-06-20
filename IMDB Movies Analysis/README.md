@@ -7,3 +7,7 @@ Three major research questions are analyzed here:
 + Does genre popularity influence movie rating?
 
 A dashboard was created from the data used for this analysis and can be accessed [here](https://public.tableau.com/app/profile/margaret.awojide/viz/IMDBMovieDashboard_16554219196260/Dashboard1?publish=yes)
+
+
+
+https://github.com/awojidetola/Udacity-Data-Analysis-ND/blob/main/IMDB%20Movies%20Analysis/Dashboard_1%20(5).PNG
