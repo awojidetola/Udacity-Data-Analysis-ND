@@ -12,6 +12,5 @@ In this project, the @dog_rates (We Rate Dogs) twitter archive is explored and a
 
 The data was accessed for Quality and Tidiness issues and was cleaned for the same. The three datasets were combined into one master dataset and analyzed.
 
-
-
-
+## Patch and Porsey Papers
+In this project, the fictional paper selling company, Patch and Porsey is analyzed across its 4 regions in the United States. The database consists of 5 tables: Sales Reps, Web Events, Region, Orders and Accounts which are linked. The company is analyzed based on frequency of orders, properties of sales reps, web activities among others. 
