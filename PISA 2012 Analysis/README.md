@@ -7,9 +7,9 @@ The survey has 2 main aims and  they are :
 +	Examine how well students have learned the school curriculum
 +	How prepared students are for life beyond school.
 
-## Dataset
+## 
 
-The dataset used for this analysis can be found [here](https://s3.amazonaws.com/udacity-hosted-downloads/ud507/pisadict2012.csv).
+The dataset used for this analysis can be found [here](https://s3.amazonaws.com/udacity-hosted-downloads/ud507/pisa2012.csv.zip).
 
 + The data used was obtained from the PISA 2012 Assesment and contains the responses of over 500,000 students (15-year olds).
 + The survey spread across 65 countries. 
