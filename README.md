@@ -14,3 +14,15 @@ The data was accessed for Quality and Tidiness issues and was cleaned for the sa
 
 ## Patch and Porsey Papers
 In this project, the fictional paper selling company, Patch and Porsey is analyzed across its 4 regions in the United States. The database consists of 5 tables: Sales Reps, Web Events, Region, Orders and Accounts which are linked. The company is analyzed based on frequency of orders, properties of sales reps, web activities among others. 
+
+## PISA 2012 Analysis
+The Program for International Students' Assesment, also known as PISA is a survey for students to test their skilss and knowledge as they approach the end of their education. There are 2 main aims of the survey and they are:
+
++ Examine how well students have learned the school curriculum
++ How prepared students are for life beyond school.
+
+This project focuses on the performance and behaviours of students in school in 2 parts: 
+
++ Part 1: Truancy - The factors influencing truancy in students as well as the effect of Truancy in students' grades are analyzed
++ Part 2: Performance - The performance of the students are analyzed based on gender and country.
+
