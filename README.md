@@ -26,3 +26,4 @@ This project focuses on the performance and behaviours of students in school in 
 + Part 1: Truancy - The factors influencing truancy in students as well as the effect of Truancy in students' grades are analyzed
 + Part 2: Performance - The performance of the students are analyzed based on gender and country.
 
+https://confirm.udacity.com/RHAHLGCE
