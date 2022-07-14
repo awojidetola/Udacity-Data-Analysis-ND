@@ -37,3 +37,13 @@ Again provide first and last name columns.*/
 SELECT name, LEFT(name, STRPOS(name,' ')-1) AS first_name,
 RIGHT(name, LENGTH(name) - (STRPOS(name, ' ')-1)) AS last_name
 FROM sales_reps;
+
+/*Each company in the accounts table wants to create an email address for each primary_poc. 
+The email address should be the first name of the primary_poc . last name 
+primary_poc @ company name .com. Some company names have trailling spaces that should be removed*/
+
+SELECT CONCAT(LEFT(LOWER(primary_poc), STRPOS(primary_poc,' ')-1),'.',
+	  RIGHT(LOWER(primary_poc), LENGTH(primary_poc) - (STRPOS(primary_poc, ' '))),
+	  '@',REPLACE(LOWER(name),' ',''),'.com') AS email
+FROM accounts
+
