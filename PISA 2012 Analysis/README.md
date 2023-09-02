@@ -40,3 +40,11 @@ The second part focused on the performance of students in the PISA survey test. 
 + Is there a relationship between the Math and Science scores of students?
 + Are there differences in reading scores based on some possesions?
 + Which countries are the top performers in the PISA 2012
+
+## File Navigation
++ pisadict2012 : Data Description
++ Explanatory.slides.html : Presentation of the insights obtained from the analysis
++ Exploratory.ipynb : Notebook file containing exploratory analysis of the data
++ Exploratory.ipynb : Html file containing exploratory analysis of the data
++ Explanatory.ipynb : Notebook file containing explanatory analysis of the data
++ Explanatory.ipynb : Html file containing explanatory analysis of the data
